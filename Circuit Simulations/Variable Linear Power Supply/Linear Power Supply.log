@@ -1,0 +1,21 @@
+Circuit: * C:\Users\acham\Documents\GitHub\PCB-and-Simulation-Design-Projects\Circuit Simulations\Linear Power Supply\Linear Power Supply.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Sep 04 00:05:11 2023
+Total elapsed time: 0.193 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2103
+traniter = 2088
+tranpoints = 1045
+accept = 1045
+rejected = 0
+matrix size = 19
+fillins = 8
+solver = Normal
+Matrix Compiler1: 1.58 KB object code size  0.2/0.2/[0.1]
+Matrix Compiler2: off  [0.1]/0.2/0.2
+
