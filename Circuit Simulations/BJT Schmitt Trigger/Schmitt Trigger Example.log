@@ -1,0 +1,21 @@
+Circuit: * C:\Users\acham\Documents\UoM\Sem 4\EN2111 - Electronic Circuit Design\Circuit Simulations\Schmitt Trigger Example\Schmitt Trigger Example.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Jun 30 18:23:35 2023
+Total elapsed time: 0.102 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6245
+traniter = 6222
+tranpoints = 2388
+accept = 1966
+rejected = 422
+matrix size = 25
+fillins = 14
+solver = Normal
+Matrix Compiler1: 2.41 KB object code size  0.3/0.2/[0.1]
+Matrix Compiler2: off  [0.2]/0.2/0.2
+
